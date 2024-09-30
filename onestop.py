@@ -1,8 +1,8 @@
 import requests
 
-alpha_vantage_api_key = 'KENQSILT5YWESGUO'
-coingecko_api_key = 'CG-2FmfmSaCopWVVn9G9U15CwMu'
-exchange_rate_api_key = '0e63b092c5332fb8dca16980'  # Your actual API key
+alpha_vantage_api_key = 
+coingecko_api_key = 
+exchange_rate_api_key =   # Your actual API key
 
 def get_stock_price(symbol):
     url = 'https://www.alphavantage.co/query'
