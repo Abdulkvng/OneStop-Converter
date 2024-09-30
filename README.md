@@ -42,9 +42,9 @@ Follow these easy steps to get started with OneStop Converter:
 3. **Configure API Keys**
     - Create a `.env` file in the project root:
         ```env
-        STOCK_API_KEY=your_stock_api_key -  
-        CRYPTO_API_KEY=your_crypto_api_key - 
-        CURRENCY_API_KEY=your_currency_api_key
+        STOCK_API_KEY=your_stock_api_key -  COINGECKO API FOR CRYPTO
+        CRYPTO_API_KEY=your_crypto_api_key - ALPHA VANTAGE API FOR STOCKS
+        CURRENCY_API_KEY=your_currency_api_key - EXCHANGE RATE API FOR CURRENCY
         ```
     - **Pro Tip:** Keep your API keys safe and never share them publicly! 🔒
 
